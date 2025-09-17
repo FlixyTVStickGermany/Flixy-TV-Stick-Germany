@@ -199,5 +199,4 @@
 <p align="justify"><a href="https://github.com/FlixyTVStickGermany/Flixy-TV-Stick-Germany">https://github.com/FlixyTVStickGermany/Flixy-TV-Stick-Germany</a></p>
 <p align="justify"><a href="https://github.com/FlixyTVStickGermany/Flixy-TV-Stick-DE">https://github.com/FlixyTVStickGermany/Flixy-TV-Stick-DE</a></p>
 <p align="justify"><a href="https://flixytvstickgermany.alboompro.com/">https://flixytvstickgermany.alboompro.com/</a></p>
-<p align="justify">&nbsp;</p>
 <p align="justify"><a href="https://flixytvstickgermany.alboompro.com/post/flixy-tv-stick-deutschland-das-zahlen-sie-tatsachlich">https://flixytvstickgermany.alboompro.com/post/flixy-tv-stick-deutschland-das-zahlen-sie-tatsachlich</a></p>
